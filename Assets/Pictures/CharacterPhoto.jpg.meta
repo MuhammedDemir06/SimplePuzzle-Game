@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c78449ae6251b6248a3d945a12553048
+guid: a56536c3460bc2b4a943f54333dd6987
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -136,13 +136,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FaceApp_1691491045635_0
+      name: CharacterPhoto_0
       rect:
         serializedVersion: 2
-        x: 100
-        y: 1385
-        width: 600
-        height: 595
+        x: 16
+        y: 331
+        width: 120
+        height: 150
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,20 +150,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bebe74a37ceca0d488bcc10ec707b321
-      internalID: 918009468
+      spriteID: e65e3ac37feddac4488d240d8514cb72
+      internalID: 51289357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FaceApp_1691491045635_1
+      name: CharacterPhoto_1
       rect:
         serializedVersion: 2
-        x: 700
-        y: 1385
-        width: 600
-        height: 595
+        x: 136
+        y: 331
+        width: 120
+        height: 150
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73ef5320d02257148923494de4de8e3f
-      internalID: -2096028592
+      spriteID: a099a9494a0e76740b5aae15ddad3c07
+      internalID: 895814171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FaceApp_1691491045635_2
+      name: CharacterPhoto_2
       rect:
         serializedVersion: 2
-        x: 1300
-        y: 1385
-        width: 600
-        height: 595
+        x: 256
+        y: 331
+        width: 120
+        height: 150
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,20 +192,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f498ce5a1301c943a5ab327c2a64a85
-      internalID: 1138846190
+      spriteID: 4a713e0513293194982b1f3b09cf6c5a
+      internalID: -801001576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FaceApp_1691491045635_3
+      name: CharacterPhoto_3
       rect:
         serializedVersion: 2
-        x: 1900
-        y: 1385
-        width: 600
-        height: 595
+        x: 376
+        y: 331
+        width: 120
+        height: 150
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,20 +213,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9faf88dffde0852409c148d4e94fff02
-      internalID: -973800156
+      spriteID: e58a5a0d0eb114748bfa54d797ad7501
+      internalID: -472703449
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FaceApp_1691491045635_4
+      name: CharacterPhoto_4
       rect:
         serializedVersion: 2
-        x: 100
-        y: 790
-        width: 600
-        height: 595
+        x: 16
+        y: 181
+        width: 120
+        height: 150
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,20 +234,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3708ed9cd00d10488ff8a7c6c2879fa
-      internalID: -102746701
+      spriteID: 960d36a8e8cec6140bc3102b874a471c
+      internalID: -361097701
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FaceApp_1691491045635_5
+      name: CharacterPhoto_5
       rect:
         serializedVersion: 2
-        x: 700
-        y: 790
-        width: 600
-        height: 595
+        x: 136
+        y: 181
+        width: 120
+        height: 150
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -255,20 +255,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 875f77deabb5bf743aaa77cfdba47a8a
-      internalID: 1008840952
+      spriteID: 56def4892c717154cb80a46ea6842d66
+      internalID: -1894170091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FaceApp_1691491045635_6
+      name: CharacterPhoto_6
       rect:
         serializedVersion: 2
-        x: 1300
-        y: 790
-        width: 600
-        height: 595
+        x: 256
+        y: 181
+        width: 120
+        height: 150
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -276,20 +276,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7aa0295fa8e84c4f96745d497d13eab
-      internalID: -1087852524
+      spriteID: 39363b98905a10d44b19e73f9b3093a9
+      internalID: 1152416659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FaceApp_1691491045635_7
+      name: CharacterPhoto_7
       rect:
         serializedVersion: 2
-        x: 1900
-        y: 790
-        width: 600
-        height: 595
+        x: 376
+        y: 181
+        width: 120
+        height: 150
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -297,20 +297,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c4ba65d92d85294285e7c044bcbd3dc
-      internalID: 989489206
+      spriteID: 48b05dc9c8721944e92c236821ba9dcc
+      internalID: 1309566876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FaceApp_1691491045635_8
+      name: CharacterPhoto_8
       rect:
         serializedVersion: 2
-        x: 100
-        y: 195
-        width: 600
-        height: 595
+        x: 16
+        y: 31
+        width: 120
+        height: 150
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -318,20 +318,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76af124d613d1cc489e56cc6addd9e83
-      internalID: -203161145
+      spriteID: aaebe4cef561eed49a62096a8b9497c4
+      internalID: 656697480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FaceApp_1691491045635_9
+      name: CharacterPhoto_9
       rect:
         serializedVersion: 2
-        x: 700
-        y: 195
-        width: 600
-        height: 595
+        x: 136
+        y: 31
+        width: 120
+        height: 150
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -339,20 +339,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7de1607a378d45409f7b5c9c7d15c54
-      internalID: 437875684
+      spriteID: 46c7c213fa4e60441ae4855a3d9c1f30
+      internalID: 1669502485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FaceApp_1691491045635_10
+      name: CharacterPhoto_10
       rect:
         serializedVersion: 2
-        x: 1300
-        y: 195
-        width: 600
-        height: 595
+        x: 256
+        y: 31
+        width: 120
+        height: 150
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -360,20 +360,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2f32820bc2985e4588995d337c34b2a
-      internalID: -1403300390
+      spriteID: 7c615810c1fcd174e86b4deb935209c6
+      internalID: 2053190504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FaceApp_1691491045635_11
+      name: CharacterPhoto_11
       rect:
         serializedVersion: 2
-        x: 1900
-        y: 195
-        width: 600
-        height: 595
+        x: 376
+        y: 31
+        width: 120
+        height: 150
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -381,8 +381,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc452e080253618438ecc49f2ec2e1b9
-      internalID: 484104982
+      spriteID: fcb0afb8ffd12bf4e937f1ab954ff8b3
+      internalID: 1581817715
       vertices: []
       indices: 
       edges: []
@@ -398,18 +398,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      FaceApp_1691491045635_0: 918009468
-      FaceApp_1691491045635_1: -2096028592
-      FaceApp_1691491045635_10: -1403300390
-      FaceApp_1691491045635_11: 484104982
-      FaceApp_1691491045635_2: 1138846190
-      FaceApp_1691491045635_3: -973800156
-      FaceApp_1691491045635_4: -102746701
-      FaceApp_1691491045635_5: 1008840952
-      FaceApp_1691491045635_6: -1087852524
-      FaceApp_1691491045635_7: 989489206
-      FaceApp_1691491045635_8: -203161145
-      FaceApp_1691491045635_9: 437875684
+      CharacterPhoto_0: 51289357
+      CharacterPhoto_1: 895814171
+      CharacterPhoto_10: 2053190504
+      CharacterPhoto_11: 1581817715
+      CharacterPhoto_2: -801001576
+      CharacterPhoto_3: -472703449
+      CharacterPhoto_4: -361097701
+      CharacterPhoto_5: -1894170091
+      CharacterPhoto_6: 1152416659
+      CharacterPhoto_7: 1309566876
+      CharacterPhoto_8: 656697480
+      CharacterPhoto_9: 1669502485
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
